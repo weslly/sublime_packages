@@ -4,7 +4,7 @@
         {
             "name": "ColorPicker",
             "author": "weslly",
-            "description": "A color picker for Sublime Text 2",
+            "description": "A color picker plugin for Sublime Text 2",
             "homepage": "https://github.com/SublimeText/ColorPicker",
             "platforms": {
                 "osx": [
