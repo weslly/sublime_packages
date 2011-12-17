@@ -1,0 +1,19 @@
+{
+    "schema_version": "1.0",
+    "packages": [
+        {
+            "name": "Color Picker",
+            "author": "weslly",
+            "description": "A color picker for Sublime Text 2",
+            "homepage": "https://github.com/SublimeText/ColorPicker",
+            "platforms": {
+                "osx": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://nodeload.github.com/SublimeText/ColorPicker/zipball/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
