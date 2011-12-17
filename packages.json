@@ -12,6 +12,12 @@
                         "version": "1.0.0",
                         "url": "https://nodeload.github.com/SublimeText/ColorPicker/zipball/master"
                     }
+                ],
+                "linux": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://nodeload.github.com/SublimeText/ColorPicker/zipball/master"
+                    }
                 ]
             }
         }
