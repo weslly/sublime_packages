@@ -21,6 +21,21 @@
                     }
                 ]
             }
+        },
+        {
+            "name": "Fetch",
+            "author": "weslly",
+            "description": "Fetch the latest version of remote files",
+            "homepage": "https://github.com/weslly/Fetch",
+            "last_modified": "2011-12-28 17:00:30",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://nodeload.github.com/weslly/Fetch/zipball/master"
+                    }
+                ]
+            }
         }
     ]
 }
