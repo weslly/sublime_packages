@@ -39,6 +39,6 @@
         }
     ] , 
     "package_name_map": {
-        "Nettuts+ Fetch": "Fetch"
+        "Fetch": "NettutsFetch"
     },
 }
