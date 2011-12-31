@@ -27,11 +27,11 @@
             "author": "weslly",
             "description": "Fetch the latest version of remote files and zip packages",
             "homepage": "https://github.com/weslly/Fetch",
-            "last_modified": "2011-12-30 22:20:00",
+            "last_modified": "2011-12-31 2:20:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "1.5.1",
+                        "version": "1.6",
                         "url": "https://nodeload.github.com/weslly/Fetch/zipball/master"
                     }
                 ]
