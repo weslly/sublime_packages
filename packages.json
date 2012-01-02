@@ -26,7 +26,7 @@
             "name": "Nettuts+ Fetch",
             "author": "Weslly H.",
             "description": "Fetch the latest version of remote files and zip packages",
-            "homepage": "http://net.tutsplus.com/",
+            "homepage": "http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/",
             "last_modified": "2011-12-31 18:40:00",
             "platforms": {
                 "*": [
