@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "ColorPicker",
-            "author": "weslly",
+            "author": "Weslly H.",
             "description": "A color picker plugin for Sublime Text 2",
             "homepage": "https://github.com/weslly/ColorPicker",
             "last_modified": "2011-12-18 17:00:30",
