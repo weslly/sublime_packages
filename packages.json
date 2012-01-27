@@ -4,19 +4,13 @@
         {
             "name": "ColorPicker",
             "author": "Weslly H.",
-            "description": "A color picker plugin for Sublime Text 2",
+            "description": "A multi-platform color picker plugin for Sublime Text 2",
             "homepage": "https://github.com/weslly/ColorPicker",
             "last_modified": "2012-01-14 14:00:00",
             "platforms": {
-                "osx": [
+                "*": [
                     {
-                        "version": "1.0.1",
-                        "url": "https://nodeload.github.com/weslly/ColorPicker/zipball/master"
-                    }
-                ],
-                "linux": [
-                    {
-                        "version": "1.0.1",
+                        "version": "1.5",
                         "url": "https://nodeload.github.com/weslly/ColorPicker/zipball/master"
                     }
                 ]
