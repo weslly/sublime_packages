@@ -21,11 +21,11 @@
             "author": "Weslly H.",
             "description": "Fetch the latest version of remote files and zip packages",
             "homepage": "http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/",
-            "last_modified": "2012-01-09 00:10:00",
+            "last_modified": "2012-03-31 17:10:00",
             "platforms": {
                 "*": [
                     {
-                        "version": "1.7.4",
+                        "version": "1.7.5",
                         "url": "https://nodeload.github.com/weslly/Nettuts-Fetch/zipball/master"
                     }
                 ]
